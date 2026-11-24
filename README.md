@@ -1,11 +1,11 @@
 # <p align="center">👋 Hi, I'm Yash Pratap</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20%26%20GenAI%20Engineer&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=200&amp;section=header&amp;text=AI%20%26%20GenAI%20Engineer&amp;fontSize=40&amp;fontAlignY=35&amp;animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Agentic+AI+%F0%9F%A4%96;RAG+Pipelines+%F0%9F%94%8D;Interactive+WebGL+Websites+%E2%9C%A8&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Agentic+AI+%F0%9F%A4%96;RAG+Pipelines+%F0%9F%94%8D;Interactive+WebGL+Websites+%E2%9C%A8&amp;center=true&amp;width=500&amp;height=45">
 </p>
 
 ---
@@ -31,7 +31,7 @@
 
 * 🥈 Finalist at **Saarthi National Hackathon**
 * 🥈 Built and deployed multiple AI agent architectures and RAG pipelines.
-* 🏅 Active problem solver (Check out my LeetCode stats below!).
+* 🏅 Active problem solver (72+ LeetCode problems solved in C++).
 * 🌍 Continuous learner in the rapidly evolving GenAI landscape.
 
 ---
@@ -71,41 +71,43 @@
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-pratap-singh-712932450/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://portfolio-yashpratap.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&amp;logo=linkedin)](https://www.linkedin.com/in/yash-pratap-singh-712932450/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&amp;logo=google-chrome)](https://portfolio-yashpratap.vercel.app/)
 
 ---
 
 # 🎨 Fun Fact
 
-*⚽️ when i'm not coding you can find me at ground kicking ball.
+* 🎨 I enjoy Painting & Sketching.
+* 🏀 When I'm not coding AI, you can find me on the basketball court.
 * ✨ *"The best way to predict the future is to build it."*
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-pratap-singh-712932450/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/your-handle) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/yash-pratap-singh-712932450/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white)](mailto:your-email@example.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&amp;logoColor=white&amp;style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&amp;logo=PyTorch&amp;logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=1forsithlord&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=1forsithlord&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=1forsithlord&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=1forsithlord&amp;theme=shadow_blue&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=1forsithlord&amp;theme=shadow_blue&amp;hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=1forsithlord&amp;theme=shadow_blue&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy-chi-ten.vercel.app/?username=1forsithlord&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-chi-ten.vercel.app/?username=1forsithlord&amp;theme=darkhub&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical)
 
 ### 🔝 📈 Contribution Activity
 
-![Yash's Contribution Activity](https://www.gitskins.com/api/section/heatmap?username=1forsithlord&theme=github-dark&mode=dark)
+![Yash's Contribution Activity](https://www.gitskins.com/api/section/heatmap?username=1forsithlord&amp;theme=github-dark&amp;mode=dark)
 ---
-[![](https://visitcount.itsvg.in/api?id=1forsithlord&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=1forsithlord&amp;icon=0&amp;color=0)](https://visitcount.itsvg.in)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ta8jAiAJmV?theme=dark)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Ta8jAiAJmV/)
+### 💻 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/TheYash07?theme=dark&amp;ext=activity)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&amp;logo=leetcode)](https://leetcode.com/u/TheYash07/)
 
 <p align="center"><sub>Yash Pratap · <a href="https://www.gitskins.com/readme-generator?template=community-light-one-vkwm">Light one</a> template · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
